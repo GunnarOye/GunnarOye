@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GunnarOye
-- 👀 I’m interested in: Robotics
+- 👀 I’m interested in: Signal Processing and Hardware Design
 - 🌱 I’m currently learning: Electrical Engineering
 - 💞️ I’m looking to collaborate on: Nothing at the moment
-- 📫 How to reach me: email
+- 📫 How to reach me: gunnar.oye@wsu.edu
 - 😄 Pronouns: He/Him
 
 <!---
